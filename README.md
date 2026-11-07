@@ -1,2 +1,2 @@
 # papr
-A microcontroller with builtin epaper and battery charging
+A microcontroller with builtin eink display and battery charging
